@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution Page](https://www.frontendmentor.io/solutions/social-links-profile-95zhvbleNk)
-- Live Site URL: [Github Pages](https://github.com/Dasaru/social-links-profile)
+- Live Site URL: [Github Pages](https://dasaru.github.io/social-links-profile/)
 
 ## My process
 
