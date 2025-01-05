@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Github](https://github.com/Dasaru/social-links-profile)
+- Solution URL: [Solution Page](https://www.frontendmentor.io/solutions/social-links-profile-95zhvbleNk)
+- Live Site URL: [Github Pages](https://github.com/Dasaru/social-links-profile)
 
 ## My process
 
